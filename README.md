@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @inder-work-id
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 🙋‍♂️Hi, I am __Inderjeet Singh Sra__ 
+
+<br>
+
+### Currently, I'm studying ***Data Structures & Algorithms***.
+
+`Just a beginner.`
+
+<br>
+
+## *Goals* at present -  
+
+    1. Increase my contribution in open source projects.
+    2. Solve as many DSA problems as possible.
+    3. Enter as many coding competitions as possible
+
+<br>
+
+## Connect at - 
+
+<div style="height:0.5em"></div>
+
+&nbsp; [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="width:3.5em"/>](https://www.linkedin.com/in/inderjeetsinghsra/)
+
+<div style="height:.5em"></div>
+
+### Or you can just E-mail me at - 
+## `inderofficialwork@gmail.com`
 
 <!---
 inder-work-id/inder-work-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
