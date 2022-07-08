@@ -16,15 +16,15 @@
 
 <br>
 
-## Connect at - 
+## Connect to me on - 
 
 <div style="height:0.5em"></div>
 
-&nbsp; [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="width:3.5em"/>](https://www.linkedin.com/in/inderjeetsinghsra/)
+&nbsp; [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" style="width:3em"/>](https://www.linkedin.com/in/inderjeetsinghsra/)
 
 <div style="height:.5em"></div>
 
-### Or you can just E-mail me at - 
+### _Or you can just **E-mail** me at -_ 
 ## `inderofficialwork@gmail.com`
 
 <!---
