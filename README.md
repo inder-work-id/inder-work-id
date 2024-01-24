@@ -2,13 +2,13 @@
 
 <br>
 
-### Currently, I'm studying ***Android App Developement using Kotlin***.
+### Aspiring Developer
 
 <br>
 
-## *Goals* at present -  
+## *Currently* working at -  
 
-    To learn Android Development.
+    Improving my Javascript and Typescript knowledge.
 
 <br>
 
